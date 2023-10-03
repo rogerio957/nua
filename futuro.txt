@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1
+https://vs.ariuli.com/hls/a609/0301/video_360p.mp4/index-v1.m3u8
+#EXTINF:-2
+https://vs.rxdks.com/hls/9829/02b1/video_464p.mp4/index-v1-a1.m3u8
+
